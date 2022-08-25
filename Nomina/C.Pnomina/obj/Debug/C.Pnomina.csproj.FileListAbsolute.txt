@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.Form1.resources
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.Properties.Resources.resources
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\bin\Debug\C.Pnomina.exe.config
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\bin\Debug\C.Pnomina.exe
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\bin\Debug\C.Pnomina.pdb
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\bin\Debug\lib_nomina.dll
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\bin\Debug\lib_nomina.pdb
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.csproj.CopyComplete
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.exe
+C:\Users\Kevin\Desktop\NOMINA\C.Pnomina\C.Pnomina\obj\Debug\C.Pnomina.pdb

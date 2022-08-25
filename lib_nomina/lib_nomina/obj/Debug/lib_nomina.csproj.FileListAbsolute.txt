@@ -1,0 +1,12 @@
+D:\Visual Studio 2022\Repos\lib_nomina\lib_nomina\bin\Debug\lib_nomina.dll
+D:\Visual Studio 2022\Repos\lib_nomina\lib_nomina\bin\Debug\lib_nomina.pdb
+D:\Visual Studio 2022\Repos\lib_nomina\lib_nomina\obj\Debug\lib_nomina.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Repos\lib_nomina\lib_nomina\obj\Debug\lib_nomina.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Repos\lib_nomina\lib_nomina\obj\Debug\lib_nomina.dll
+D:\Visual Studio 2022\Repos\lib_nomina\lib_nomina\obj\Debug\lib_nomina.pdb
+C:\Users\Kevin\Desktop\NOMINA\lib_nomina\lib_nomina\bin\Debug\lib_nomina.dll
+C:\Users\Kevin\Desktop\NOMINA\lib_nomina\lib_nomina\bin\Debug\lib_nomina.pdb
+C:\Users\Kevin\Desktop\NOMINA\lib_nomina\lib_nomina\obj\Debug\lib_nomina.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\NOMINA\lib_nomina\lib_nomina\obj\Debug\lib_nomina.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\NOMINA\lib_nomina\lib_nomina\obj\Debug\lib_nomina.dll
+C:\Users\Kevin\Desktop\NOMINA\lib_nomina\lib_nomina\obj\Debug\lib_nomina.pdb
