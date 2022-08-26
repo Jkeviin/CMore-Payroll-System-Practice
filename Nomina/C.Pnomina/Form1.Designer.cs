@@ -61,10 +61,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Lucida Fax", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(35, 114);
+            this.label1.Font = new System.Drawing.Font("Dubai", 8.249999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(50, 108);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(135, 14);
+            this.label1.Size = new System.Drawing.Size(115, 18);
             this.label1.TabIndex = 0;
             this.label1.Text = "INGRESE SU NOMBRE:";
             // 
@@ -95,10 +95,10 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Lucida Fax", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(35, 230);
+            this.label2.Font = new System.Drawing.Font("Dubai", 8.249999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(50, 224);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(109, 14);
+            this.label2.Size = new System.Drawing.Size(93, 18);
             this.label2.TabIndex = 2;
             this.label2.Text = "INGRESE SUELDO";
             // 
@@ -113,41 +113,43 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Lucida Fax", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(35, 189);
+            this.label3.Font = new System.Drawing.Font("Dubai", 8.249999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(50, 183);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(202, 14);
+            this.label3.Size = new System.Drawing.Size(171, 18);
             this.label3.TabIndex = 4;
             this.label3.Text = "INGRESE LOS DIAS TRABAJADOS ";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Lucida Fax", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(35, 151);
+            this.label4.Font = new System.Drawing.Font("Dubai", 8.249999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(50, 145);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(128, 14);
+            this.label4.Size = new System.Drawing.Size(108, 18);
             this.label4.TabIndex = 6;
             this.label4.Text = "INGRESE SU CEDULA";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.Red;
             this.label5.Location = new System.Drawing.Point(85, 37);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(324, 33);
+            this.label5.Size = new System.Drawing.Size(341, 33);
             this.label5.TabIndex = 8;
             this.label5.Text = "CALCULO DE NOMINA";
             // 
             // btnCalcular
             // 
-            this.btnCalcular.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnCalcular.BackColor = System.Drawing.Color.Red;
             this.btnCalcular.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnCalcular.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btnCalcular.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnCalcular.FlatAppearance.BorderSize = 5;
             this.btnCalcular.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalcular.ForeColor = System.Drawing.Color.Black;
+            this.btnCalcular.Font = new System.Drawing.Font("Dubai", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCalcular.ForeColor = System.Drawing.Color.White;
             this.btnCalcular.Location = new System.Drawing.Point(242, 308);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -159,7 +161,7 @@
             // 
             // txtRbasico
             // 
-            this.txtRbasico.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.txtRbasico.BackColor = System.Drawing.Color.White;
             this.txtRbasico.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtRbasico.ForeColor = System.Drawing.Color.Black;
             this.txtRbasico.Location = new System.Drawing.Point(181, 74);
@@ -179,7 +181,7 @@
             // 
             // txtRauxilio
             // 
-            this.txtRauxilio.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.txtRauxilio.BackColor = System.Drawing.Color.White;
             this.txtRauxilio.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtRauxilio.ForeColor = System.Drawing.Color.Black;
             this.txtRauxilio.Location = new System.Drawing.Point(181, 109);
@@ -199,7 +201,7 @@
             // 
             // txtRDevengado
             // 
-            this.txtRDevengado.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.txtRDevengado.BackColor = System.Drawing.Color.White;
             this.txtRDevengado.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtRDevengado.ForeColor = System.Drawing.Color.Black;
             this.txtRDevengado.Location = new System.Drawing.Point(181, 162);
@@ -254,10 +256,10 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Lucida Fax", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(35, 268);
+            this.label9.Font = new System.Drawing.Font("Dubai", 8.249999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(50, 262);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(169, 14);
+            this.label9.Size = new System.Drawing.Size(142, 18);
             this.label9.TabIndex = 18;
             this.label9.Text = "SELECCIONE TIPO DE PAGO";
             // 
@@ -295,6 +297,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Symbol", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.label10.ForeColor = System.Drawing.Color.Red;
             this.label10.Location = new System.Drawing.Point(-5, 138);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(403, 13);
@@ -334,6 +337,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "APLICACION NOMINA";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
