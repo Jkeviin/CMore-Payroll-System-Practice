@@ -34,15 +34,12 @@ namespace C.Pnomina
                 objNM.SetAuxilioStandart = 117172;
                 objNM.SetTipoNomina = RbMensual.Checked ? 30 : 15;
                 objNM.SetDividirSalario = RbMensual.Checked ? 1 : 2;
-
-
                 ////////
-
                 if (objNM.CalcularSalario() && objNM.CalcularAuxilioTransporte() && objNM.TotalDevengado())
                 {
-                    txtRbasico.Text = objNM.GetBasico.ToString();
-                    txtRauxilio.Text = objNM.GetAuxilioTransporte.ToString();
-                    txtRDevengado.Text = objNM.GetTotalDevengado.ToString();
+                    txtRbasico.Text =  $"$ {objNM.GetBasico.ToString()}";
+                    txtRauxilio.Text = $"$ {objNM.GetAuxilioTransporte.ToString()}";
+                    txtRDevengado.Text = $"$ {objNM.GetTotalDevengado.ToString()}";
                 }
                 else
                 {
